@@ -20,4 +20,4 @@ while(z<=9):
         z += 1
         break
     if z > 9:
-        print("GAME OVER!!\nYou have lost all your guesses")
+        print("GAME OVER!!\nYou have lost all your guesses.")
